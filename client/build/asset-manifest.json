@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.5e5ae6f0.css",
-    "main.js": "/static/js/main.92440a8b.js",
+    "main.js": "/static/js/main.48350f72.js",
     "static/media/blue-concrete-wall-textures-background.jpg": "/static/media/blue-concrete-wall-textures-background.45b3e529c9f642a98293.jpg",
     "static/media/memories.png": "/static/media/memories.b55f47632f66c24d575f.png",
     "index.html": "/index.html",
     "main.5e5ae6f0.css.map": "/static/css/main.5e5ae6f0.css.map",
-    "main.92440a8b.js.map": "/static/js/main.92440a8b.js.map"
+    "main.48350f72.js.map": "/static/js/main.48350f72.js.map"
   },
   "entrypoints": [
     "static/css/main.5e5ae6f0.css",
-    "static/js/main.92440a8b.js"
+    "static/js/main.48350f72.js"
   ]
 }
