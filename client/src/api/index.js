@@ -1,5 +1,5 @@
 import axios from "axios";
-const url = "https://memories43023.herokuapp.com";
+const url = process.env.BACKEND_URL;
 const API = axios.create({ baseURL: url });
 
 API.interceptors.request.use((req) => {
