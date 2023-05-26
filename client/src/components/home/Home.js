@@ -3,7 +3,7 @@ import { Container, Grid, Grow } from "@material-ui/core";
 import { useDispatch } from "react-redux";
 
 import Posts from "../Posts/Posts";
-import Form from "../form/Form";
+import Form from "../Form/Form";
 import { getPosts } from "../../actions/posts";
 
 const Home = () => {

@@ -17,7 +17,7 @@ import { useDispatch } from "react-redux";
 
 import { deletePost, likePost } from "../../../actions/posts";
 
-const Post = ({ post, setCurrentId }) => {
+export const Post = ({ post, setCurrentId }) => {
   const classes = useStyles();
   const dispatch = useDispatch();
 
@@ -122,5 +122,3 @@ const Post = ({ post, setCurrentId }) => {
     </Card>
   );
 };
-
-export default Post;
